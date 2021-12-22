@@ -1,0 +1,30 @@
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\bin\Debug\MusicPlayerAutoPlaylist.exe.config
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\bin\Debug\MusicPlayerAutoPlaylist.exe
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\bin\Debug\MusicPlayerAutoPlaylist.pdb
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\bin\Debug\Interop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\bin\Debug\AxInterop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\Interop.MediaPlayer.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\Interop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\AxInterop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.csproj.ResolveComReference.cache
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.Form1.resources
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.Properties.Resources.resources
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.csproj.GenerateResource.Cache
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.exe
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.pdb
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\bin\Debug\MusicPlayerAutoPlaylist.exe.config
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\Interop.MediaPlayer.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\Interop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\AxInterop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.csproj.ResolveComReference.cache
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.exe
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.pdb
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\bin\Debug\MusicPlayerAutoPlaylist.exe
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\bin\Debug\MusicPlayerAutoPlaylist.pdb
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\bin\Debug\Interop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\bin\Debug\AxInterop.WMPLib.dll
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.Form1.resources
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.Properties.Resources.resources
+D:\Bi\Bi Homework\DTA\week16\MusicPlayerAutoPlaylist v.3\MusicPlayerAutoPlaylist\obj\Debug\MusicPlayerAutoPlaylist.csproj.GenerateResource.Cache
